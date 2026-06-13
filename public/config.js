@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "A powerful decentralised Perp DEX on Base that rewards you.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Points,Rewards,Leaderboard,Vaults",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Points,Rewards",
   "VITE_CUSTOM_MENUS": "Swap, https://superswapfi.xyz/swap",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
